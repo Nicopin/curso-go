@@ -11,5 +11,5 @@ func internalSum(number int) int {
 
 // Sum two integer numbers
 func Sum(number1, number2 int) int {
-    return number1 + number2
+    return number1 + number2 + 1
 }
